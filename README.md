@@ -1,1 +1,1 @@
-# RailsInventoryManagement
+# RailsInventory Management
